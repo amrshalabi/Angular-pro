@@ -1,0 +1,37 @@
+.card-body .card-title
+{
+    font-size: 20px;
+    font-weight: 600;
+    color: #404040 ;
+    font-family: 'Raleway', sans-serif;
+}
+.card-text
+{
+    font-size: 14px;
+    font-weight: 400;
+    color: #828282 ;
+    font-family: 'Raleway', sans-serif;
+}
+.card-body ul li
+{
+    font-size: 12px ;
+    font-weight: 600;
+    font-family: 'Raleway', sans-serif;
+
+}
+.news h1
+{
+    font-size: 48px;
+    font-weight: 600;
+    color: #404040;
+    font-family: 'Raleway', sans-serif;
+    line-height: 58px ;
+    font-style: normal;
+}
+.news p
+{
+    font-size: 14px;
+    font-weight: 400;
+    color: #828282 ;
+    font-family: 'Raleway', sans-serif;
+}

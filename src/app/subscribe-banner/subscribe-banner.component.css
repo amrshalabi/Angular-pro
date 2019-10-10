@@ -1,0 +1,12 @@
+.subscribe_banner
+{
+    background-image: url("../../assets/subscribe-bg.png");
+    background-size: cover;
+}
+.subscribe_banner h2
+{
+    color: white;
+    font-size: 30px ;
+    font-weight: 600;
+    font-family: 'Raleway', sans-serif;
+}

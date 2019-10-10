@@ -1,0 +1,44 @@
+.depart
+{
+    background: linear-gradient(270deg,rgba(50,200,250,1) 0%,rgba(88,125,228,1) 100%);
+    padding: 50px;
+    margin-left: -15px;
+    margin-right: -15px;
+    color: white;
+}
+h1{
+    font-size: 48px;
+    font-weight: 600;
+    font-family: 'Raleway', sans-serif; 
+}
+.depart a
+{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+}
+.depart h2
+{
+    font-size: 24px;
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+}
+.depart p
+{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
+    line-height: 25px
+}
+
+.department
+{
+    background-image: url("../../assets/departments-bg.jpg");
+    background-attachment: fixed;
+    background-size: 100% 100% ;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}

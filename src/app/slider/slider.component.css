@@ -1,0 +1,50 @@
+.test
+{
+    position: relative;
+}
+.layer
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.layer h2
+{
+ font-size: 60px;
+ font-weight: 600;
+ color: #404040;
+ font-family: 'Raleway', sans-serif;
+}
+.layer p
+{
+    font-size: 14px;
+    font-weight: 500;
+    color: #828282;
+    line-height: 28px ;
+    font-family: 'Raleway', sans-serif;
+    line-height: 25px;
+}
+ .call
+ {
+
+    background: linear-gradient(270deg,rgba(50,200,250,1) 0%,rgba(88,125,228,1) 100%);
+    color: #fff !important;
+    border-radius: 10px;
+    padding: 10px;
+    font-family: 'Raleway', sans-serif;
+
+}
+@media( max-width:900px)
+{
+    .layer h2{
+        font-size: 30px;
+    }
+    .layer p{
+        display: none !important;
+    }
+    .layer p{
+
+        font-size: 10px
+    }
+    
+}

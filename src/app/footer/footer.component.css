@@ -1,0 +1,67 @@
+/*start footer*/
+.end p {
+	color: #746D6E;
+	font-size: 13px
+}
+
+.end a {
+	color: #746D6E;
+	font-size: 13px
+}
+
+.end h3 {
+	font-size: 16px;
+	color: #746D6E;
+}
+
+.end {
+    background-color: #121214;
+    background-image: url(../../assets/footer-bg.png);
+    background-size: 100% 100%;
+    position: relative ;
+    border-top: 2px solid #52A3E2;
+    font-family: 'Raleway', sans-serif;
+}
+
+.end i {
+	color: #746D6E
+}
+
+/*Start CopyRight*/
+
+.copyright{
+    
+    padding: 15px;
+    color: white;
+    background-color:#52A3E2;
+    font-family: 'Raleway', sans-serif;
+}
+
+.copyright ul{
+    
+    margin: 0;
+}
+
+.copyright ul li{
+    
+    display: inline-block;
+    margin-left: 15px;
+    font-size: 25px;
+
+}
+.copyright ul li a i{
+    
+    color: white;
+}
+
+
+/*End CopyRight*/
+.test
+{
+    color:white !important;
+    background: linear-gradient(270deg,rgba(50,200,250,1) 0%,rgba(88,125,228,1) 100%);
+    padding: 10px;
+    border-radius: 10px
+}
+
+
